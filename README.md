@@ -20,7 +20,7 @@ Contributing
 
 This is the current structure of the libraries.
 
-[Libraries]()
+###[Libraries](https://github.com/stewartallen/kicad-parts/tree/master/libraries)
 
 * connectors.lib
 * discrete.lib
@@ -29,7 +29,7 @@ This is the current structure of the libraries.
 * microchip-technology.lib
 * texas-instruments.lib
 
-[Modules]()
+###[Modules](https://github.com/stewartallen/kicad-parts/tree/master/modules)
 
 * connectors.mod
 * crystal.mod
