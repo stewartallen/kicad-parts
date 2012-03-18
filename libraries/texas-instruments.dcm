@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0  Date: Sun 18 Mar 2012 01:39:42 PM SAST
+#
+$CMP TMP102
+D Digital Temperature Sensor. http://www.ti.com/product/tmp102
+$ENDCMP
+#
+$CMP TPS61200
+D Boost Converter. http://www.ti.com/product/tps61200
+$ENDCMP
+#
+#End Doc Library

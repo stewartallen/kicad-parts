@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0  Date: Sun 18 Mar 2012 01:25:16 PM SAST
+#
+$CMP LTC1540
+D Nanopower Comparator with Reference. http://cds.linear.com/docs/Datasheet/1540fas.pdf
+$ENDCMP
+#
+#End Doc Library

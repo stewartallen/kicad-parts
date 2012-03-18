@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0  Date: Sun 18 Mar 2012 01:28:20 PM SAST
+#
+$CMP MAX17040
+D Fuel Gauge. http://www.maxim-ic.com/datasheet/index.mvp/id/6621
+$ENDCMP
+#
+$CMP MAX17043
+D Fuel Gauge. http://www.maxim-ic.com/datasheet/index.mvp/id/6546
+$ENDCMP
+#
+#End Doc Library

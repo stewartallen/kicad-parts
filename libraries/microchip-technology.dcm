@@ -1,0 +1,19 @@
+EESchema-DOCLIB  Version 2.0  Date: Sun 18 Mar 2012 01:35:25 PM SAST
+#
+$CMP MCP73831
+D Charge management controller. http://www.microchip.com/wwwproducts/Devices.aspx?dDocName=en024903
+$ENDCMP
+#
+$CMP MRF24WB0MA
+D Wi-Fi radio transceiver. http://www.microchip.com/wwwproducts/Devices.aspx?dDocName=en548014
+$ENDCMP
+#
+$CMP PIC24FJXXGA004
+D http://www.microchip.com/wwwproducts/Devices.aspx?dDocName=en026375
+$ENDCMP
+#
+$CMP PIC24FJXXGB004
+D http://www.microchip.com/wwwproducts/Devices.aspx?dDocName=en536118
+$ENDCMP
+#
+#End Doc Library
