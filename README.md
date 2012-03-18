@@ -1,9 +1,8 @@
 Kicad Parts
 ===========
+> "The KiCad EDA Suite project aims at creating a portable, cross-platform, Free/Libre/Open-Source EDA Suite. That is capable of schematic and printed circuit board design. The code is licensed under the terms of the GNU GPL."
 
 These are the Kicad parts that I've been using in my designs. Please feel free to fork this, make changes/additions and send me a pull request.
-
-> "The KiCad EDA Suite project aims at creating a portable, cross-platform, Free/Libre/Open-Source EDA Suite. That is capable of schematic and printed circuit board design. The code is licensed under the terms of the GNU GPL."
 
 ### Links
 * Kicad home page. http://kicad.sourceforge.net/wiki/Main_Page
@@ -23,7 +22,13 @@ This is the current structure of the libraries.
 ###[Libraries](https://github.com/stewartallen/kicad-parts/tree/master/libraries)
 
 * connectors.lib
+    * Any connector related part. 
+    * RJ45 plugs
+    * SIL/DIL headers.  
 * discrete.lib
+    * Discrete components. 
+    * R/C/L 
+    * Transistors  
 * linear-technology.lib
 * maxium.lib
 * microchip-technology.lib
